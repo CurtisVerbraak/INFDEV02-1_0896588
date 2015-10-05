@@ -1,4 +1,4 @@
-## RPS + SL
+﻿## RPS + SL
 
 import sys
 from random import randint
