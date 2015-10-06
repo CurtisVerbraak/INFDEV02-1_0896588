@@ -1,4 +1,4 @@
-﻿## warmup
+﻿## warmup.
 
 ## Fahrenheit > Celsius
 fahrenheit = int(raw_input('(F>C) Enter Fahrenheit: \n'))
