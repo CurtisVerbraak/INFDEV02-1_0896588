@@ -1,10 +1,7 @@
-﻿import sys
+﻿## reverse string
+inupt = raw_input("type something useless and press enter!\n")
 
-## reverse string
-text = raw_input("type something useless and press enter!\n")
-
-#https://docs.python.org/2/whatsnew/2.3.html
-#extended-slices <url over hoe je een reversed string KAN maken en andere opties
-# [begin:end:step]
-sys.stdout.write(text[::-1]+'\n')
-## end reverse string
+var = ""
+for i in range(len(inupt),0,-1):
+    var += inupt[i-1]
+print (var)
