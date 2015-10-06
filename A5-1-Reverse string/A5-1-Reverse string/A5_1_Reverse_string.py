@@ -1,4 +1,4 @@
-import sys
+﻿import sys
 
 ## reverse string
 text = raw_input("type something useless and press enter!\n")
