@@ -1,4 +1,5 @@
-﻿## warmup.
+﻿## Curtis Verbraak 0896588
+## warmup.
 
 ## Fahrenheit > Celsius
 fahrenheit = int(raw_input('(F>C) Enter Fahrenheit: \n'))
@@ -17,6 +18,6 @@ else:
     print kelvin, "Kelvin \n"
 
 ## absolute value
-number = raw_input('(ABS) Enter a number: ')
+number = raw_input('(ABS) Enter a number:')
 number = float(number)
 print('The absolute value is ' + str(abs(number)))

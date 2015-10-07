@@ -1,4 +1,5 @@
-﻿## passwords
+﻿## Curtis Verbraak 0896588
+## passwords
 
 input = raw_input("Enter a password\n")
 length = len(input)

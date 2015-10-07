@@ -1,4 +1,5 @@
-﻿## Cryptography
+﻿## Curtis Verbraak 0896588
+## Cryptography
 
 input = raw_input('Enter some text to encrypt: ')
 shift = raw_input('Enter a number: ')

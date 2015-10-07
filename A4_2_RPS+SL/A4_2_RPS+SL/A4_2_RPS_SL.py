@@ -1,4 +1,5 @@
-﻿## RPS + SL
+﻿## Curtis Verbraak 0896588
+## RPS + SL
 
 import sys
 from random import randint

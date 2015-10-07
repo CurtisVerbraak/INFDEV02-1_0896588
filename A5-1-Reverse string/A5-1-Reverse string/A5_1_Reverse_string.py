@@ -1,4 +1,5 @@
-﻿## reverse string
+﻿## Curtis Verbraak 0896588
+## reverse string
 inupt = raw_input("type something useless and press enter!\n")
 
 var = ""
