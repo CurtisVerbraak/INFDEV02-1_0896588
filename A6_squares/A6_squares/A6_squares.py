@@ -1,4 +1,4 @@
-#Square
+﻿#Square
 size = raw_input('enter size in numbers for a square \n')
 size = int(size)
 
@@ -33,4 +33,4 @@ for i in range(0,size,1):
            for j in range(size-2):
                 var += t
            var += x
-    print(var)
+    print(var) 
